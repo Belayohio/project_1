@@ -19,7 +19,8 @@ Nikkei 225 (^N225) -- EWJ
 Project Title: Crypto,Chips, and Market Correlation
 
 Our group consists of Caleb Allen, Belay Hagos, Myroslav Protsiv, and Cyril Varghese. We are doing a project on the relationship of 4 popular cryptocurrencies compared to 4 of the top chip makers. Some questions that we are going to ask is: 
-1.Is there a relationship between chip makers and cryptocurrencies prices?
+
+1.Is there a relationship between chip makers and cryptocurrencies prices? 
 2.Is the avg rate of change of chipmakers vs. crypto similar?
 3.Is there correlation between chip makers and crypto prices and world market indexes?
 
